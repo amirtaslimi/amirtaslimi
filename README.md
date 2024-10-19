@@ -1,7 +1,7 @@
 ![til](./asset.gif)
 
 
-<h1 align="center">Hi 👋, I'm AmirHossein Taslimi</h1>
+<h1 align="center">I'm AmirHossein Taslimi</h1>
 <h3 align="center">Interested in game development and AI. Experienced in game development (Unity) and Python backend engineering. Currently learning AI algorithms.</h3>
 
 <h3 align="left">Connect with me:</h3>
