@@ -2,7 +2,8 @@
 
 
 <h1 align="center">I'm AmirHossein Taslimi</h1>
-<h3 align="center">Interested in game development and AI. Experienced in game development (Unity) and Python backend engineering. Currently learning AI algorithms.</h3>
+<h3 align="center">AI engineer with hands-on experience in computer vision, deep learning,
+ LLMs, and building scalable data pipelines and ML systems.</h3>
 
 ---
 
